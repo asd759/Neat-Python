@@ -4,7 +4,7 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to evolve neura
 
 The repository includes AI agents that learn to play:
 
-- Flappy Bird (clone)
+- Flappy Bird
 - Chrome Dino–style runner
 
 ## How It Works
@@ -67,8 +67,6 @@ python Dino_game_2/dino.py
 python playable_dino_2.py
 ```
 
-Multiple AI agents will play at the same time. As generations pass, their performance improves automatically.
-
 ## NEAT Configuration
 
 Each game uses a `config-feedforward.txt` file to control:
@@ -96,4 +94,4 @@ Exact versions are listed in `requirements.txt`.
 
 ## License
 
-This pr
+This project is licensed under the MIT License.
